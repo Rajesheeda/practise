@@ -12,3 +12,5 @@ p=4
 q=10
 print(p*q)
 
+print("all done")
+
